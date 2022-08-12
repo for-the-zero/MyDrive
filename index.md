@@ -3,6 +3,9 @@
 ###### 手动更新
 
 ---
-
-- [scratch 资源](./scratch)
-- [python 资源](./python)
+目录
+- [scratch 资源](./scratch/l.md)
+- [python 资源](./python/l.md)
+---
+文件
+- 无
